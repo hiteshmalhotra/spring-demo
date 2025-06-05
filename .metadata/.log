@@ -1,0 +1,50 @@
+!SESSION 2025-06-05 15:53:50.683 -----------------------------------------------
+eclipse.buildId=4.35.0.202504180233
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/apple/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/apple/.eclipse_keyring -data /Users/apple/Documents/springboot-project
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-05 15:53:55.301
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-05 15:54:00.655
+!MESSAGE Logback config file: /Users/apple/Documents/springboot-project/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-06-05 15:54:01.163
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-06-05 15:54:01.163
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-06-05 15:54:01.968
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-06-05 15:54:01.968
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY com.genuitec.copilot4eclipse.boot 1 0 2025-06-05 15:54:07.813
+!MESSAGE C4E booting
+
+!ENTRY com.genuitec.copilot4eclipse.copilotapi 1 0 2025-06-05 15:54:07.864
+!MESSAGE [C4E] Starting CopilotAPI
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2025-06-05 15:54:16.674
+!MESSAGE [C4E] Conversation persistence: /Users/apple/Documents/springboot-project/.metadata/.plugins/com.genuitec.copilot4eclipse/chatdata
+
+!ENTRY com.genuitec.copilot4eclipse.copilotapi 1 0 2025-06-05 15:54:16.874
+!MESSAGE [C4E] Copilot API proxy: disabled
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2025-06-05 15:54:17.260
+!MESSAGE [C4E] Internal server started: true uri: http://localhost:53883/chat
+
+!ENTRY com.genuitec.copilot4eclipse.boot 1 0 2025-06-05 15:54:18.504
+!MESSAGE C4E API started
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2025-06-05 15:54:21.824
+!MESSAGE [C4E] Workspace labels: 
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2025-06-05 15:55:55.738
+!MESSAGE [C4E] Internal server stopped: Server@6e656419{STOPPED}[10.0.25,sto=0]
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2025-06-05 15:55:55.739
+!MESSAGE [C4E] Internal server stopped: true
